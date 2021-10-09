@@ -13,12 +13,12 @@ Thank you for your visit !
 
 👋 Bonjour, je suis @Julien-Allard
 
-Je suis un développeur débutant dans le développement web fron-end à l'âge de 35 ans. J'ai travaillé sur du HTML, CSS, JavaScript et un peu de Vue.js.
+Je suis un développeur débutant dans le développement web front-end à l'âge de 35 ans. J'ai travaillé sur du HTML, CSS, JavaScript et un peu de Vue.js.
 
-J'apprends encore mais je suis très motivé à l'idée d'apprendre plus encore.
+J'apprends encore mais je suis très motivé à l'idée d'apprendre encore plus.
 Le front-end est un début pour moi, je compte bien maîtriser cet aspect du développement d'abord pour ensuite en apprendre plus sur le développement back-end.
 
 C'est un nouveau monde pour moi vu que je ne connaissais rien au développement web il y a encore un an !
-Une nouvelle aventure, part d'une nouvelle vie. J'espère que mon profil retiendra votre attention car mon prochain but est désormais de trouver un job dans ce domain.
+Une nouvelle aventure, part d'une nouvelle vie. J'espère que mon profil retiendra votre attention car mon prochain but est désormais de trouver un job dans ce domaine.
 
 Merci pour votre visite !
