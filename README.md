@@ -21,5 +21,6 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ## [REACT] Vinted Clone
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
+
 ### Frontend : https://github.com/Julien-Allard/react-vinted-clone
 ### Backend : https://github.com/Julien-Allard/Vinted-Le-Reacteur
