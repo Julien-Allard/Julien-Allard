@@ -8,6 +8,7 @@ Technos I've learned :
 
 <img width="25px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img width="25px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="25px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 This is a whole new world to me since I knew nothing about web developement in 2020.
 A new adventure, part of a new way of life, and a motivation going off the charts !
