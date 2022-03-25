@@ -48,3 +48,13 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ### Frontend : https://github.com/Julien-Allard/react-deliveroo-clone
 ### Backend : https://github.com/Julien-Allard/deliveroo-backend
+
+<hr/>
+
+# Other projects :
+### [REACT NATIVE] My AirBnB clone App : https://github.com/Julien-Allard/reactnative-airbnb-clone
+### Trip Advisor Static Homepage : https://github.com/Julien-Allard/tripadvisor-clone
+### React Todo List : https://github.com/Julien-Allard/react-todo-list
+### Ready To Go : https://github.com/Julien-Allard/ready-to-go-react
+### Netflix Page Clone with React : https://github.com/Julien-Allard/netflix-clone-react
+### 
