@@ -17,4 +17,4 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## My projects :
+# My projects :
