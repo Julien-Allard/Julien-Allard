@@ -25,6 +25,8 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 ### Frontend : https://github.com/Julien-Allard/react-vinted-clone
 ### Backend : https://github.com/Julien-Allard/Vinted-Le-Reacteur
 
+<hr/>
+
 ## [REACT] Marveact (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648208942/GitHub/marveact-banner_xnh9pu.png"/>
 
