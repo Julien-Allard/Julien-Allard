@@ -19,7 +19,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 # My projects :
 
-## [REACT] Vinted Clone (fullstack)
+## [REACT/EXPRESS/MONGODB] Vinted Clone (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/react-vinted-clone
@@ -27,8 +27,16 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [REACT] Marveact (fullstack)
+## [REACT/EXPRESS] Marveact (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648208942/GitHub/marveact-banner_xnh9pu.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/react-marvel-app
 ### Backend : https://github.com/Julien-Allard/express-marvel-app
+
+<hr/>
+
+## [HTML/JAVASCRIPT] Simple Contact Form (fullstack)
+<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648210226/GitHub/simpleform-banner_rk3nsp.png"/>
+
+### Frontend : https://github.com/Julien-Allard/contact-form-front
+### Backend : https://github.com/Julien-Allard/contact-form-back
