@@ -24,6 +24,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ### Frontend : https://github.com/Julien-Allard/react-vinted-clone
 ### Backend : https://github.com/Julien-Allard/Vinted-Le-Reacteur
+### Try it : https://react-vinted-clone-julalldev.netlify.app/
 
 <hr/>
 
@@ -32,6 +33,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ### Frontend : https://github.com/Julien-Allard/react-marvel-app
 ### Backend : https://github.com/Julien-Allard/express-marvel-app
+### Try it : https://marveact-julalldev.netlify.app/
 
 <hr/>
 
@@ -40,6 +42,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ### Frontend : https://github.com/Julien-Allard/contact-form-front
 ### Backend : https://github.com/Julien-Allard/contact-form-back
+### Try it : https://simple-contact-form-julalldev.netlify.app/
 
 <hr/>
 
@@ -48,6 +51,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ### Frontend : https://github.com/Julien-Allard/react-deliveroo-clone
 ### Backend : https://github.com/Julien-Allard/deliveroo-backend
+### Try it : https://react-deliveroo-julalldev.netlify.app/
 
 <hr/>
 
