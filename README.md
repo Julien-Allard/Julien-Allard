@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Julien Allard
 
-I'm a 36 years old beginner full stack web developer. I've learned the basics of MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
+I'm 36 years old and I'm a beginner full stack web developer. I've learned the basics of MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
 
 Still learning but eager to learn more. I started with front-end on my own but I felt it wasn't enough, I wanted to see more. Le Reacteur allowed me to do so by teaching me the most modern web developement technologies and technics. Powerful languages and frameworks such as React, React Native, Node.js, Express and MongoDB, and useful tools such as Netlify, Heroku, Compass or Mailgun.
 
