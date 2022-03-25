@@ -1,10 +1,13 @@
-👋 Hi, I’m @Julien-Allard
+### 👋 Hi, I’m Julien Allard
 
-I'm a 36 years old beginner full stack web developer. Currently learning the MERN stack (MongoDB, Express, React and Node.js) at Le Reacteur.
+I'm a 36 years old beginner full stack web developer. I've learned the basics of MERN stack (MongoDB, Express, React and Node.js).
 
-Still learning but eager to learn more. I started with front-end but I felt it wasn't enough, I wanted to see more. Le Reacteur allowed me to do so by teaching me the most modern web developement technologies and technics. Powerful languages and frameworks such as React, React Native, Node.js, Express and MongoDB, and useful tools such as Netlify, Heroku, Compass or Mailgun.
+Still learning but eager to learn more. I started with front-end on my own but I felt it wasn't enough, I wanted to see more. Le Reacteur allowed me to do so by teaching me the most modern web developement technologies and technics. Powerful languages and frameworks such as React, React Native, Node.js, Express and MongoDB, and useful tools such as Netlify, Heroku, Compass or Mailgun.
 
-This is a whole new world to me since I knew nothing about web developement one year ago.
+Technos I've learned :
+[<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>]
+
+This is a whole new world to me since I knew nothing about web developement in 2020.
 A new adventure, part of a new way of life, and a motivation going off the charts !
 
-Thank you for your visit !
+I hosted many of my differents projects, big and small, on my GitHub profile.
