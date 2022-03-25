@@ -17,7 +17,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-# My projects :
+# Some of my projects :
 
 ## [REACT/EXPRESS/MONGODB] Vinted Clone (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
