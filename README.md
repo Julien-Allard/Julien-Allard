@@ -35,7 +35,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [HTML/JAVASCRIPT] Simple Contact Form (fullstack)
+## [HTML/JAVASCRIPT/EXPRESS] Simple Contact Form (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648210226/GitHub/simpleform-banner_rk3nsp.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/contact-form-front
