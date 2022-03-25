@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Julien Allard
+# 👋 Hi, I’m Julien Allard
 
 I'm a 36 years old beginner full stack web developer. I've learned the basics of MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
 
