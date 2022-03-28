@@ -18,7 +18,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 )&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>](https://www.heroku.com
 )&emsp;[<img width="40px" style="margin-right: 10px" src="https://i.imgur.com/Dns5wR8.png"/>](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinvL2kouT2AhUDkGgJHUxDBa8YABAAGgJ3Zg&ae=2&ohost=www.google.com&cid=CAESbeD23mskK7WJc5I496zyIxMNz8PBJEayKj3gXcKvDRmSxScTK2dhJf_QAI2clNSmzS1y-aGel6o2LfD9kfQdlAhLNp-4Pl7IU2lyrctI0xgxoxrcvKjG6EJlsxchogyWUtkITQYY6eg2XsdM-po&sig=AOD64_3f6MI0kU_yx-KJnwxLxVPZmsvONw&q&adurl&ved=2ahUKEwjUjLWkouT2AhVDzIUKHSCVASUQ0Qx6BAgCEAE)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>](https://slack.com/intl/fr-fr/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"/>](https://stripe.com/fr)
 
-## Actually learning :
+## Currently learning :
 
 [<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
 
