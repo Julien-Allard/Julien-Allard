@@ -6,6 +6,9 @@ A new adventure, part of a new way of life, and a motivation going off the chart
 
 I hosted many of my differents projects, big and small, on my GitHub profile.
 
+### Contact me :
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/allardj/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>](mailto:allardj85@gmail.com)
+
 <hr/>
 
 ## Languages I work with :
