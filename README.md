@@ -20,7 +20,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ## Currently learning :
 
-[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>](https://getbootstrap.com/)
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)
 
 <hr/>
 
