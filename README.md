@@ -74,4 +74,4 @@ I also have another 2 projects on private repositories, including a MVP.
 ### React Todo List : https://github.com/Julien-Allard/react-todo-list
 ### Ready To Go : https://github.com/Julien-Allard/ready-to-go-react
 ### Netflix Page Clone with React : https://github.com/Julien-Allard/netflix-clone-react
-### 
+### Mes projets JavaScript vanilla : https://github.com/Julien-Allard/mes-projets-javascript
