@@ -26,7 +26,7 @@ I also have another 2 projects on private repositories, including a MVP.
 
 ## Currently learning :
 
-[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>](https://jestjs.io/fr/)
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>](https://nextjs.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>](https://redux.js.org/)
 
 <hr/>
 
