@@ -53,9 +53,9 @@ I also have another 2 projects on private repositories, including a MVP.
 ## [REACT/FOREST/EXPRESS] MVP Flemme (fullstack / projet en équipe)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1651083080/GitHub/flemme-banner_yv37r9.png"/>
 
-### Equipe : Nicolas Guérineau (lead), Johann Pouponnot (PO/dév), Gabriel Brandao (dév), Julien Allard (dév)
-### Porteurs de projet : Imène Tendjaoui et Tarek Jadoui
-### Présentation :
+### Team : Nicolas Guérineau (lead), Johann Pouponnot (PO/dev), Gabriel Brandao (dev), Julien Allard (dev)
+### Project holders : Imène Tendjaoui and Tarek Jadoui
+### Demonstration :
 - partie 1 : https://youtu.be/eGpPDp99VR8
 - partie 2 : https://youtu.be/7pGDnbgZkyw
 
