@@ -32,6 +32,14 @@ I also have another 2 projects on private repositories, including a MVP.
 
 # Some of my projects :
 
+## [NEXT.JS] My Portfolio (frontend)
+<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1652197304/GitHub/portfolio-banner_azjo3z.png"/>
+
+### Frontend : https://github.com/Julien-Allard/next-my-portfolio
+### Try it : https://jallard-portfolio.netlify.app/
+
+<hr/>
+
 ## [REACT/EXPRESS/MONGODB] Vinted Clone (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
 
