@@ -16,7 +16,7 @@ I also have another 2 projects on private repositories, including a MVP.
 
 ## My languages and frameworks :
 
-[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>](https://fr.reactjs.org/)&emsp;[<img width="40px" height="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>](https://expressjs.com/fr/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>](https://www.mongodb.com/fr-fr)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/en/)
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>](https://sass-lang.com/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>](https://fr.reactjs.org/)&emsp;[<img width="40px" height="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>](https://redux.js.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>](https://expressjs.com/fr/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>](https://www.mongodb.com/fr-fr)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>](https://nodejs.org/en/)
 
 ## The tools I use :
 
@@ -26,7 +26,7 @@ I also have another 2 projects on private repositories, including a MVP.
 
 ## Currently learning :
 
-[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>](https://nextjs.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>](https://redux.js.org/)
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>](https://nextjs.org/)
 
 <hr/>
 
@@ -37,6 +37,14 @@ I also have another 2 projects on private repositories, including a MVP.
 
 ### Frontend : https://github.com/Julien-Allard/next-my-portfolio
 ### Try it : https://jallard-portfolio.netlify.app/
+
+<hr/>
+
+## [REACT/REDUX] Super Memoryo (frontend)
+<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1653568513/GitHub/super-memoryo-banner_otsgxc.png"/>
+
+### Frontend : https://github.com/Julien-Allard/redux-super-memoryo
+### Try it : https://jallard-super-memoryo.netlify.app/
 
 <hr/>
 
