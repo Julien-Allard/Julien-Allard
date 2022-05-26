@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Julien Allard
 
-I'm 36 years old and I'm a beginner full stack web developer eager to learn more. I'm currently using the MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
+I'm 36 years old and I'm a beginner web developer eager to learn more. I'm currently using the MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
 I started with front-end (HTML, CSS and JS) on my own but I felt it wasn't enough. So I went to Le Reacteur to learn the most modern web developement technologies and technics. Powerful languages and frameworks such as React, React Native, Node.js, Express and MongoDB, and useful tools such as Netlify, Heroku, Compass or Mailgun.
 A new adventure, part of a new way of life, and a motivation going off the charts !
 
@@ -45,6 +45,14 @@ I also have another 2 projects on private repositories, including a MVP.
 
 ### Frontend : https://github.com/Julien-Allard/redux-super-memoryo
 ### Try it : https://jallard-super-memoryo.netlify.app/
+
+<hr/>
+
+## [REACT/EXPRESS/PARSER] Simple Dashboard (fullstack)
+<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1653570431/GitHub/dashboard-banner_qwk6gc.png"/>
+
+### Code : the goal was to make a dashboard showing different metrics and a chart, with different filters, based on a .csv file containing a big set of datas. All the code is on private repositories, part of a technical test.
+### Try it : https://jallard-dashboard.netlify.app/
 
 <hr/>
 
