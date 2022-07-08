@@ -79,9 +79,6 @@ I also have another 2 projects on private repositories, including a MVP.
 
 ### Team : Nicolas Guérineau (lead), Johann Pouponnot (PO/dev), Gabriel Brandao (dev), Julien Allard (dev)
 ### Project holders : Imène Tendjaoui and Tarek Jadoui
-### Demonstration :
-- partie 1 : https://youtu.be/eGpPDp99VR8
-- partie 2 : https://youtu.be/7pGDnbgZkyw
 
 <hr/>
 
