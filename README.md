@@ -74,14 +74,6 @@ I also have another 2 projects on private repositories, including a MVP.
 
 <hr/>
 
-## [REACT/FOREST/EXPRESS] MVP Flemme (fullstack / projet en équipe)
-<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1651083080/GitHub/flemme-banner_yv37r9.png"/>
-
-### Team : Nicolas Guérineau (lead), Johann Pouponnot (PO/dev), Gabriel Brandao (dev), Julien Allard (dev)
-### Project holders : Imène Tendjaoui and Tarek Jadoui
-
-<hr/>
-
 ## [HTML/JAVASCRIPT/EXPRESS] Simple Contact Form (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648210226/GitHub/simpleform-banner_rk3nsp.png"/>
 
