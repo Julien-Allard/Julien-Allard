@@ -4,10 +4,9 @@ I'm 36 years old and I'm a junior web developer eager to learn more. I'm current
 I started with front-end (HTML, CSS and JS) on my own but I felt it wasn't enough. So I went to Le Reacteur to learn the most modern web developement technologies and technics. Powerful languages and frameworks such as React, React Native, Node.js, Express and MongoDB, and useful tools such as Netlify, Heroku, Compass or Mailgun.
 A new adventure, part of a new way of life, and a motivation going off the charts !
 
-I'm now pushing it even further by learning to effectively use TypeScript, Jest and React Testing Library to make even more stable and trusty applications.
+With some professionnal experience now, I'm pushing it even further by learning to effectively use TypeScript, Jest and React Testing Library to make even more stable and trusty applications.
 
 I hosted many of my differents projects, big and small, on my GitHub profile.
-I also have another 2 projects on private repositories, including a MVP.
 
 ### Contact me :
 [<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/allardj/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>](mailto:allardj85@gmail.com)
