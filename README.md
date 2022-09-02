@@ -49,7 +49,8 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 ## [REACT/EXPRESS/PARSER] Simple Dashboard (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1653570431/GitHub/dashboard-banner_qwk6gc.png"/>
 
-### Code : the goal was to make a dashboard showing different metrics and a chart, with different filters, based on a .csv file containing a big set of datas. All the code is on private repositories, part of a technical test.
+### Front end : https://github.com/Julien-Allard/memory-test-front
+### Back end : https://github.com/Julien-Allard/memory-test-back
 ### Try it : https://jallard-dashboard.netlify.app/
 
 <hr/>
