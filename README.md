@@ -34,8 +34,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 ## [NEXT.JS] My Portfolio (frontend)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1652197304/GitHub/portfolio-banner_azjo3z.png"/>
 
-### Frontend : https://github.com/Julien-Allard/next-my-portfolio
-### Try it : https://jallard-portfolio.netlify.app/
+### Feel free to visit : https://jallard-portfolio.netlify.app/
 
 <hr/>
 
