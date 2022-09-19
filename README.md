@@ -38,7 +38,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [REACT/REDUX] Super Memoryo (frontend)
+## [REACT/REDUX/TYPESCRIPT] Super Memoryo (frontend)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1653568513/GitHub/super-memoryo-banner_otsgxc.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/redux-super-memoryo
@@ -64,7 +64,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [REACT/EXPRESS] Marveact (fullstack)
+## [REACT/TYPESCRIPT/EXPRESS] Marveact (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648208942/GitHub/marveact-banner_xnh9pu.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/react-marvel-app
