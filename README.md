@@ -46,7 +46,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/next-vinted-clone
-### Try it : [https://jallard-portfolio.netlify.app](https://julalldev-next-vinted-clone.netlify.app/)/
+### Try it : https://julalldev-next-vinted-clone.netlify.app/
 
 <hr/>
 
