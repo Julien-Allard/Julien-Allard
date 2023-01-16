@@ -42,6 +42,14 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
+## [NEXT.JS/TYPESCRIPT] Vinted Clone V2 (fullstack)
+<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
+
+### Frontend : https://github.com/Julien-Allard/next-vinted-clone
+### Try it : [https://jallard-portfolio.netlify.app](https://julalldev-next-vinted-clone.netlify.app/)/
+
+<hr/>
+
 ## [REACT/REDUX/TYPESCRIPT] Super Memoryo (frontend)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1653568513/GitHub/super-memoryo-banner_otsgxc.png"/>
 
