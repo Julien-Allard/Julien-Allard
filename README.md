@@ -67,7 +67,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [REACT/EXPRESS/MONGODB] Vinted Clone (fullstack)
+## [REACT/EXPRESS/MONGODB] Vinted Clone V1 (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1648207560/GitHub/vinted-banner_jmculm.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/react-vinted-clone
