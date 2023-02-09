@@ -42,7 +42,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [NEXT.JS/TYPESCRIPT] Vinted Clone V2 (fullstack)
+## [NEXT.JS/TYPESCRIPT] Vinted Clone V2 (fullstack) /!\ UNDER CONSTRUCTION /!\
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1673882183/GitHub/vinted-banner-v2_o5xwcx.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/next-vinted-clone
