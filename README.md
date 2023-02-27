@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Julien Allard
 
-I'm 36 years old and I'm a junior web developer eager to learn more. I'm currently using the MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
+I'm 37 years old and I'm a junior web developer eager to learn more. I'm currently using the MERN stack (MongoDB, Express, React and Node.js), front-end and back-end developement.
 I started with front-end (HTML, CSS and JS) on my own but I felt it wasn't enough. So I went to Le Reacteur to learn the most modern web developement technologies and technics. Powerful languages and frameworks such as React, React Native, Node.js, Express and MongoDB, and useful tools such as Netlify, Heroku, Compass or Mailgun.
 A new adventure, part of a new way of life, and a motivation going off the charts !
 
