@@ -23,13 +23,13 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 )&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>](https://www.heroku.com
 )&emsp;[<img width="40px" style="margin-right: 10px" src="https://i.imgur.com/Dns5wR8.png"/>](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinvL2kouT2AhUDkGgJHUxDBa8YABAAGgJ3Zg&ae=2&ohost=www.google.com&cid=CAESbeD23mskK7WJc5I496zyIxMNz8PBJEayKj3gXcKvDRmSxScTK2dhJf_QAI2clNSmzS1y-aGel6o2LfD9kfQdlAhLNp-4Pl7IU2lyrctI0xgxoxrcvKjG6EJlsxchogyWUtkITQYY6eg2XsdM-po&sig=AOD64_3f6MI0kU_yx-KJnwxLxVPZmsvONw&q&adurl&ved=2ahUKEwjUjLWkouT2AhVDzIUKHSCVASUQ0Qx6BAgCEAE)&emsp;[<img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"/>](https://stripe.com/fr)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>](https://mui.com/)
 
-## Would like to improve :
+## Would like to improve on :
 
-[<img width="40px" height="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>](https://nextjs.org/)
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>](https://graphql.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>](https://nextjs.org/)&emsp;[<img width="40px" height="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>](https://reactnative.dev/)
 
 ## Would love to learn :
 
-[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>](https://graphql.org/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>](https://www.java.com/fr/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>](https://spring.io/)
+[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>](https://www.java.com/fr/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>](https://spring.io/)
 
 <hr/>
 
@@ -55,6 +55,13 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 ### Frontend : https://github.com/Julien-Allard/redux-super-memoryo
 ### Try it : https://jallard-super-memoryo.netlify.app/
+
+<hr/>
+
+## [GRAPHQL/APOLLO] GraphQL training server with Rick & Morty (backend)
+<img src="https://res.cloudinary.com/df4imwogd/image/upload/v1677757217/GitHub/graphql-training-banner_vole52.png"/>
+
+### Backend : https://github.com/Julien-Allard/graphql-server-training
 
 <hr/>
 
