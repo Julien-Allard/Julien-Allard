@@ -58,9 +58,10 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [GRAPHQL/APOLLO] GraphQL training server with Rick & Morty (backend)
+## [REACT/TYPESCRIPT/NODE/GRAPHQL/APOLLO] GraphQL training server with Rick & Morty (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1677757217/GitHub/graphql-training-banner_vole52.png"/>
 
+### Frontend : https://github.com/Julien-Allard/graphql-client-training
 ### Backend : https://github.com/Julien-Allard/graphql-server-training
 
 <hr/>
