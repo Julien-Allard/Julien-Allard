@@ -58,7 +58,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 
 <hr/>
 
-## [REACT/TS/NODE/GRAPHQL/APOLLO/NEXT] GraphQL training with Rick & Morty (fullstack)
+## [NEXTJS/REACT/TS/NODE/GRAPHQL/APOLLO] GraphQL training with Rick & Morty (fullstack)
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1679492285/GitHub/graphql-training-banner_yqvyns.png"/>
 
 ### Fullstack (Next) : https://github.com/Julien-Allard/graphql-next-training
