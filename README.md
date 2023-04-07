@@ -46,7 +46,7 @@ I hosted many of my differents projects, big and small, on my GitHub profile.
 <img src="https://res.cloudinary.com/df4imwogd/image/upload/v1673882183/GitHub/vinted-banner-v2_o5xwcx.png"/>
 
 ### Frontend : https://github.com/Julien-Allard/next-vinted-clone
-### Try it : https://julalldev-next-vinted-clone.netlify.app/
+### Try it : https://next-vinted-clone.vercel.app/
 
 <hr/>
 
